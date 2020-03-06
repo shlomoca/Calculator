@@ -1,0 +1,63 @@
+
+#calc{
+	position:absolute ;
+  left:40%;
+  top:20%;
+	height:150px;
+	width: 50px;
+	background:rgb(122, 220, 250);
+	border:5px;
+  border-style: solid;
+  border-color: rgb(60, 61, 61);  
+
+ 
+}
+button{
+	font-weight: bold;
+	box-shadow: 30%;
+
+}
+#res{
+  position:inherit;
+  height: 100%;
+	width: 98%;
+	text-align: center;	 
+  font-size:20px;
+
+}
+
+#equalBut{
+	position:inherit;
+	height: 100%;
+	bottom:0%;
+	border-radius:5%;
+}
+
+.buttons{
+	height: 50px;
+	width: 50px;
+	border-radius:17%;
+  font-size:20px;
+}
+
+.textview{
+  width:98%;
+  height:98%;
+  top:0;
+  left:0;
+  text-align: right;
+	line-height:100px;
+  font-size:30px;
+		background:rgb(177, 212, 196);
+		font-weight: bold;
+}
+#zeroRow{
+position:inherit;
+	height: 100%;
+}
+
+
+body {
+  background:  url("https://gcse.co.uk/wp-content/uploads/2019/05/numbers.jpg") no-repeat fixed center;
+	 background-size: cover;
+}
