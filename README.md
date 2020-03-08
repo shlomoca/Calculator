@@ -1,6 +1,6 @@
 # Calculator
 JavaScript calculator
-Authored by Shlomo Carmi 
+Authored by Shlomo Carmi & Daniel Raz
 
 
 == Description ==
